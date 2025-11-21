@@ -383,31 +383,15 @@ A `CONTRIBUTING.md` file will be added to spell out practical details.
 
 ## Licence
 
-> **Suggested default:** Apache License 2.0 for code and specifications.
-
 The code and specifications in this repository are intended to be used widely
 by public institutions, NGOs, companies and individuals. For that reason, a
 permissive open-source licence with a clear patent grant is preferred.
 
-We therefore recommend licensing `klimagg-tech` under the **Apache License,
-Version 2.0**.
-
-This provides:
+**Apache License, Version 2.0** provides:
 
 * broad permission to use, modify, distribute,
 * an explicit patent licence,
 * clear limitations of liability and warranty.
-
-You can technically choose a different licence (e.g. CC0 1.0 or AGPL-3.0), but:
-
-* **CC0 1.0** maximises re-use, yet:
-
-  * does not provide an explicit patent grant,
-  * is less standard for complex software stacks.
-* **AGPL-3.0** enforces sharing improvements for SaaS deployments, but can make
-  adoption by public bodies and vendors more difficult.
-
-**Recommended:** keep Apache-2.0 as the default for this infrastructure project.
 
 See [`LICENSE`](LICENSE) for the full licence text.
 
