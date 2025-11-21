@@ -1,4 +1,3 @@
-````markdown
 # klimagg-tech
 
 > Open-source backbone for implementing the Klima Generations Act (KlimaGG) –  
