@@ -8,7 +8,7 @@
 ## What is klimagg-tech?
 
 `klimagg-tech` is a **reference architecture and open-source toolkit** for the
-digital infrastructure that a law like the *Klima-Generationen-Gesetz* (KlimaGG)
+digital infrastructure that a law like the *Klima-Generationen-Gesetz* ([KlimaGG](https://klimagg.de/))
 needs in order to work in practice:
 
 - registers and journals for climate-relevant legal acts and data,
