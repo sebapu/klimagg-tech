@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mplconfig/
+.meteostat_cache/
+
+# Local raw data
+/data/raw/netztransparenz/2024/*.zip
+/data/raw/netztransparenz/2024/*.csv
+/data/raw/netztransparenz/2024/*.txt
+
+# Generated databases: only the attributed SMARD snapshot is versioned
+/data/derived/*.sqlite
+!/data/derived/smard_stundendaten_2021_2025.sqlite
+
+# Generated outputs
+/results/generated/
+*.tmp
+*.sqlite.tmp
+.DS_Store
