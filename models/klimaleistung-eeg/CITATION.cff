@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Bitte dieses Repositorium und die verwendeten Primärdaten zitieren."
+title: "Klimaleistung und EEG: Modelle, Daten und Grafiken"
+type: software
+authors:
+  - family-names: Putzke
+    given-names: Sebastian
+version: 0.2.0
+date-released: 2026-08-06
+repository-code: "https://github.com/sebapu/klimagg-tech/tree/main/models/klimaleistung-eeg"
+url: "https://www.klimagg.de/grundlagen/modelle-und-daten/klimaleistung-eeg/"
+license: Apache-2.0
