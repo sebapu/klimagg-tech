@@ -1,0 +1,5 @@
+﻿energietraeger,direct_t_co2e_mwh,upstream_surcharge_t_co2e_mwh,total_t_co2e_mwh,method,source_url
+Braunkohle,1.0303022670025188,0.06269773299748116,1.093,"UNECE-Lebenszyklusmittel 1,093 t/MWh minus direkter UBA-Kraftwerkswert",https://unece.org/sites/default/files/2021-11/LCA_final.pdf
+Steinkohle,0.8773165137614679,0.09412844036697247,0.9714449541284403,"UBA: höchster regulärer Lieferlandwert 11,4 g CO2e/MJ (Russland), auf Strom umgerechnet",https://www.umweltbundesamt.de/system/files/medien/1410/publikationen/cc_61-2021_emissionsfaktoren-stromerzeugung_bf.pdf
+Erdgas,0.4376855123674912,0.14247349823321553,0.5801590106007067,"UBA: US-LNG inklusive Verteilung 22,4 g CO2e/MJ, auf Strom umgerechnet",https://www.umweltbundesamt.de/system/files/medien/1410/publikationen/cc_61-2021_emissionsfaktoren-stromerzeugung_bf.pdf
+Sonstige Konventionelle,0.8164490861618798,0.17765013054830284,0.9940992167101826,"JEC WTT v5: Ölproduktbereitstellung 18,9 g CO2e/MJ als konservativer Proxy",https://doi.org/10.2760/100379
