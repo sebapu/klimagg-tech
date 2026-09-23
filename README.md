@@ -190,17 +190,72 @@ and implementation work.
 
 ---
 
-## Licence
+## Licensing
 
-Software and specifications in this repository are licensed under the
-**Apache License, Version 2.0**. This permits use, modification and
-redistribution, including commercial use, subject to the licence conditions and
-retention of copyright and attribution notices. See [`LICENSE`](LICENSE) and
-[`NOTICE`](NOTICE).
+`klimagg-tech` is a collaborative open-source working repository and uses two
+licence scopes.
 
-Original documentation, figures and other non-software works may be released
-under **CC BY 4.0** where explicitly marked. Third-party datasets remain subject
-to their respective licences and attribution requirements.
+### Software and technical specifications — Apache-2.0
+
+Unless explicitly stated otherwise, software and software-like technical material
+in this repository is licensed under the **Apache License, Version 2.0**.
+
+This includes in particular:
+
+- source code and scripts,
+- reference implementations,
+- software configuration,
+- APIs and interface definitions,
+- machine-readable schemas and specifications,
+- software tests and supporting tooling.
+
+See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+
+### Documentation and other original content — CC BY 4.0
+
+Unless explicitly stated otherwise, original non-software content is licensed
+under the **Creative Commons Attribution 4.0 International License
+(CC BY 4.0)**.
+
+This includes in particular:
+
+- documentation and explanatory texts,
+- methodological descriptions and analyses,
+- figures, diagrams and visualisations,
+- original tables and authored datasets,
+- published model results and other non-software works.
+
+Reuse, modification and redistribution, including commercial use, are permitted.
+The creators must be appropriately credited, the licence must be referenced and
+changes must be indicated.
+
+See [`LICENSE-CONTENT`](LICENSE-CONTENT).
+
+### Authors and contributions
+
+Contributors retain authorship of their contributions.
+
+For substantial models, analyses and publications, the relevant README or
+metadata should identify the authors or contributors to be credited. Git history
+provides the underlying contribution record.
+
+By submitting a contribution for inclusion in this repository, the contributor
+agrees that it may be distributed under the licence applicable to the material
+being contributed:
+
+- **Apache-2.0** for software and technical specifications;
+- **CC BY 4.0** for original non-software content;
+
+unless another licence is explicitly agreed or required by third-party material.
+
+### Third-party material
+
+Third-party software, datasets, publications and other externally sourced
+material are not relicensed by this repository.
+
+They remain subject to their respective licences, attribution requirements and
+terms of use. Relevant sources and licence information must be documented with
+the affected model or dataset.
 
 ---
 
